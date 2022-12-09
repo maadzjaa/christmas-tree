@@ -1,20 +1,21 @@
 {
-  "name": "christmas-tree",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maadzjaa/christmas-tree.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maadzjaa/christmas-tree/issues"
-  },
-  "homepage": "https://github.com/maadzjaa/christmas-tree#readme"
+	"name": "christmas-tree",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/app.js",
+	"scripts": {
+		"start": "node src/app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/maadzjaa/christmas-tree.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/maadzjaa/christmas-tree/issues"
+	},
+	"homepage": "https://github.com/maadzjaa/christmas-tree#readme"
 }
